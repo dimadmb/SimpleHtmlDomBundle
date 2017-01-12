@@ -15,7 +15,7 @@
         "php": ">=5.3.3",
 
     },
-    "minimum-stability": "master",
+    "minimum-stability": "stable",
     "target-dir": "Dimadmb/SimpleHtmlDomBundle",
     "autoload": {
         "psr-0": { "Dimadmb\\SimpleHtmlDomBundle": "" },
