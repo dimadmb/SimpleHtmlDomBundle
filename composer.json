@@ -1,0 +1,24 @@
+{
+    "name": "dimadmb/simple-html-dom-bundle",
+    "description": "Bundle around Simple HTML DOM library",
+    "type": "symfony-bundle",
+    "keywords": ["html", "dom", "php"],
+    "homepage": "https://github.com/dimadmb/SimpleHtmlDomBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DimaK",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+
+    },
+    "minimum-stability": "dev",
+    "target-dir": "Dimadmb/SimpleHtmlDomBundle",
+    "autoload": {
+        "psr-0": { "Dimadmb\\SimpleHtmlDomBundle": "" },
+        "classmap": [ "lib" ]
+    }
+}
