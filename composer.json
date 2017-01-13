@@ -13,8 +13,9 @@
     ],
     "require": {
         "php": ">=5.3.3",
-
+        "symfony/framework-bundle": "3.*"
     },
+    "minimum-stability": "dev-master",
     "target-dir": "Dimadmb/SimpleHtmlDomBundle",
     "autoload": {
         "psr-0": { "Dimadmb\\SimpleHtmlDomBundle": "" },
